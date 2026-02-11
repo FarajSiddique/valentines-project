@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:\\\\Users\\\\Faraj\\\\Desktop\\\\Coding Projects\\\\React\\\\valentines-project\\\\.github\\\\workflows\"\" 2>nul || echo \"directory empty or gone \")"
+    ]
+  }
+}
